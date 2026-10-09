@@ -1,0 +1,2 @@
+# Scripts must keep LF endings — with CRLF (git autocrlf on Windows) bash fails on \r.
+*.sh text eol=lf
